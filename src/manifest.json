@@ -31,6 +31,7 @@
                 "routines/ui/init/originalhider.js",
                 "routines/ui/init/postinitbodyrevealer.js",
                 "routines/ui/front/input/shower.js",
+                "routines/ui/front/logo/shower.js",
                 "routines/postboot.js"
             ],
             "matches": [
